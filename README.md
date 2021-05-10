@@ -3,7 +3,7 @@
 Semi customizable color picker for flutter.
 
 <p float="left">
-<!-- <img src="https://raw.githubusercontent.com/TellMeCorp/tellme-alert/main/example/images/Screenshot_1617999487.png?token=AFPPHGPUY2FHB3Z4NED6RH3APHY5Y" width = 150> -->
+<img src="https://raw.githubusercontent.com/TellMeCorp/tellme_color_picker/master/example/images/Screenshot_1620659030.png" width = 150>
 </p>
 
 
