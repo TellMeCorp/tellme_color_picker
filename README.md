@@ -40,7 +40,6 @@ import  'package:tellme_color_picker/tellme_color_picker.dart';
 
   
 ```dart
-//Default confirmed
  TextButton(
     onPressed: () => TellMeColorPicker(
     context: context,
